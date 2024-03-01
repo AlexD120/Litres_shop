@@ -1,4 +1,4 @@
-# Diploma project on testing automation of the site [LITRES](https://www.litres.ru/)
+# Project on testing automation of the site [LITRES](https://www.litres.ru/)
 
 <img src="resources/images/ui/main_page_litres.png">
 
